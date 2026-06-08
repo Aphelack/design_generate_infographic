@@ -1,0 +1,2 @@
+Transform text, data, or ideas into polished infographics and visual explainers — statistical, process, comparison, timeline, or list layouts.
+Use when you need to communicate complex information as a single shareable image, ready for social media, reports, or Figma handoff.
